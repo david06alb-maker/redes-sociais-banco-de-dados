@@ -38,7 +38,8 @@ Cada comentário deverá possuir:
 
 -   Data e hora do comentário;
 
-
+## Modelagem conceitual
+![](modelagem_conceitual.png)
  
 
 > 
